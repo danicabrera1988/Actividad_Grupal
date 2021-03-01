@@ -1,3 +1,4 @@
+<?php
 echo '<h3>TABLA DE MULTIPLICAR <h3>';
     echo"<tr>";
         for($i=1; $i<=10; $i++){
@@ -14,3 +15,4 @@ echo '<h3>TABLA DE MULTIPLICAR <h3>';
         }
     echo "</tr>";
 echo"</table>";
+?>
