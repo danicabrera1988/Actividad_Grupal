@@ -1,6 +1,6 @@
 <?php
 echo '<h3>TABLA DE MULTIPLICAR <h3>';
-"<table border=1>";
+echo '<table border=1>';
     echo"<tr>";
         for($i=1; $i<=10; $i++){
             echo "<td> Tabla del ".$i." </td>";
